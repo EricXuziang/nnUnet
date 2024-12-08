@@ -1,0 +1,8 @@
+*.png
+*.pth
+*.nii.gz
+*.txt
+dataset
+results
+cls_results
+multi_results
